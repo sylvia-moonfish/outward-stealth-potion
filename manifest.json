@@ -1,0 +1,15 @@
+{
+  "name": "GreaterStealthPotion",
+  "author": "sylvia-moonfish",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "",
+  "dependencies": [
+    "BepInEx-BepInExPack_Outward-5.4.19",
+    "sinai-dev-SideLoader-3.8.4"
+  ],
+  "artifacts": {
+    "plugin": [],
+    "patcher": []
+  }
+}
